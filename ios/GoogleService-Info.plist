@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584898712539-idb1935iq1ni6jhgons07a1480j8otd4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584898712539-idb1935iq1ni6jhgons07a1480j8otd4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>584898712539-lds3eqk18p81limlkvlturts5nf9frh5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRT8T0Z5eXS2XJZp6Uta5TOHFYgfAJw2k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584898712539</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tecdatum.schooltrackingsystem.schooltrackingsystem</string>
+	<key>PROJECT_ID</key>
+	<string>futurekidsschoolapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>futurekidsschoolapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584898712539:ios:127cf534c4df86f4274dfe</string>
+</dict>
+</plist>

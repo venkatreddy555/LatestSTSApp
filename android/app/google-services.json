@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "584898712539",
+    "project_id": "futurekidsschoolapp",
+    "storage_bucket": "futurekidsschoolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584898712539:android:610dec65e1458a8b274dfe",
+        "android_client_info": {
+          "package_name": "com.tecdatum.schooltrackingsystem.schooltrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584898712539-vju5pufedgj7bkg8028rai2l6kraaoec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMewrs6JgdsJUfoZs31rALx52KuXNDbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584898712539-vju5pufedgj7bkg8028rai2l6kraaoec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584898712539:android:aa702cd926192ed2274dfe",
+        "android_client_info": {
+          "package_name": "com.tecdatum.sts.stsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584898712539-vju5pufedgj7bkg8028rai2l6kraaoec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMewrs6JgdsJUfoZs31rALx52KuXNDbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584898712539-vju5pufedgj7bkg8028rai2l6kraaoec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
